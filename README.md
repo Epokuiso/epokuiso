@@ -1,5 +1,5 @@
-## Ocimuele!👋🏽
-### I'm *Emanuel Moura*. 
+# Ocimuele! <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" height="70" width="70">
+## I'm *Emanuel Moura*. 
 #### I was *pulled by the force of the code* 🥺 and *I aspire to push further into this vast world*.🥺
 
 
@@ -13,8 +13,8 @@
 
 <img src="https://rapidapi.com/blog/wp-content/uploads/2018/06/giphy1.gif">
 
-### About Me
-> In love with both *frontend and backend* devepoling areas. 😭 <br>
+### More about me
+> In love with both *frontend and backend* developing areas. 😭 <br>
 > I work as *frontend web developer* for a year. 👁 <br>
 > I'm studying *RDBMs and Node.js*. 🌱 <br>
 > I'm currently studying *Software Engineering* at *Catholic University Of Angola*. 🇦🇴
