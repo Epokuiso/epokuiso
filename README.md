@@ -15,8 +15,7 @@
 
 ### More about me
 > In love with both *frontend and backend* developing areas. 😭 <br>
-> I work as *frontend web developer* for a year. 👁 <br>
-> I'm studying *RDBMs and Node.js*. 🌱 <br>
+> *Growing*. 🌱 <br>
 > I'm currently studying *Software Engineering* at *Catholic University Of Angola*. 🇦🇴
 
 
