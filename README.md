@@ -3,6 +3,7 @@
 #### I was *pulled by the force of the code* 🥺 and *I aspire to push further into this vast world*.🥺
 
 ### Skills
+> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height="50"> 
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" width="50" height="50"> <br>
 > <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original.svg" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" width="50" height="50"> <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" width="50" height="50"> <br>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"> <br>
